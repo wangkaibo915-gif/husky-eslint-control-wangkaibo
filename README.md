@@ -19,5 +19,6 @@ Node, без фреймворка и TypeScript. Файл `calc.js` реализ
 Проверка с ошибочным вызовом `summ(2, 3)` завершилась ошибкой `no-undef`, и
 Husky заблокировал коммит. После исправления коммит выполнен успешно. Подлинные
 записи этих терминальных сеансов сохранены в
-[`evidence/terminal`](evidence/terminal). Снимки экрана терминала ещё необходимо
-добавить отдельно; записи не выдаются за скриншоты.
+[`evidence/terminal`](evidence/terminal). Снимки экрана терминала:
+[ошибка при коммите](evidence/terminal/01-failed-commit.png) и
+[успешный коммит](evidence/terminal/02-successful-commit.png).
